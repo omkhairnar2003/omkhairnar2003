@@ -79,16 +79,3 @@
 </div>
 
 ---
-
-## 🐍 Snake Animation
-
-<div align="center">
-  <picture>
-    <source srcset="https://github.com/omkhairnar/omkhairnar/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github.com/omkhairnar/omkhairnar/blob/output/github-snake.svg" media="(prefers-color-scheme: light)" />
-    <img src="https://github.com/omkhairnar/omkhairnar/blob/output/github-snake.svg" />
-  </picture>
-</div>
-
-
----
