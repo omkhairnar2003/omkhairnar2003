@@ -1,10 +1,10 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Om+Khairnar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Om+Khairnar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
 
