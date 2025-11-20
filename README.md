@@ -55,25 +55,25 @@
 <div align="center">
 
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=omkhairnar&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=omkhairnar&theme=light" media="(prefers-color-scheme: light)" />
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=omkhairnar&theme=light" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=omkhairnar2003&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=omkhairnar2003&theme=light" media="(prefers-color-scheme: light)" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=omkhairnar2003&theme=light" />
   </picture>
 
   <br/><br/>
 
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=omkhairnar&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=omkhairnar&show_icons=true&theme=light" media="(prefers-color-scheme: light)" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=omkhairnar&show_icons=true&theme=light" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=omkhairnar2003&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=omkhairnar2003&show_icons=true&theme=light" media="(prefers-color-scheme: light)" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=omkhairnar2003&show_icons=true&theme=light" />
   </picture>
 
   <br/><br/>
 
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=omkhairnar&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=omkhairnar&layout=compact&theme=light" media="(prefers-color-scheme: light)" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkhairnar&layout=compact&theme=light" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=omkhairnar2003&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=omkhairnar2003&layout=compact&theme=light" media="(prefers-color-scheme: light)" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkhairnar2003&layout=compact&theme=light" />
   </picture>
 
 </div>
