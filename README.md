@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Om+Khairnar!;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer in Test</h3>
 
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
 
